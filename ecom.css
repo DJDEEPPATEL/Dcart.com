@@ -601,8 +601,8 @@ h4{
     nav ul{
         position: absolute;
         top: 70px;
-       left: 37%;
-        background-color:black;
+       left: 24.5%;
+        background-color:rgb(37, 37, 37);
         text-align: center;
         width: 30%;    
         margin: auto;
